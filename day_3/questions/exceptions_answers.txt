@@ -1,0 +1,16 @@
+1. C
+2. D
+3. D
+4. C
+5. C
+6. A, B, C
+7. A, B, E
+8. A, C
+9. E
+10. A
+11. D
+12. B
+13. D
+14. C
+15. D
+16. StackOverflowError, NullPointerException, ClassCastException

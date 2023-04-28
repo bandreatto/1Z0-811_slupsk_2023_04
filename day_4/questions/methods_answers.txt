@@ -1,0 +1,17 @@
+1. A, D
+2. E
+3. E
+4. A, E
+5. B, C, D
+6. B
+7. D
+8. A
+9. D
+10. A
+11. B
+12. public int, a = a + offset;, return a;, a = u.update(a, 111)
+13. B, C
+14. B, C
+15. B
+16. B
+17. A, B, C
